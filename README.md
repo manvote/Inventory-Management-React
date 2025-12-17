@@ -22,7 +22,6 @@ A simple, vibrant Inventory Management System built using **React**, **HTML**, *
 
 ## Screenshots
 
-*Add screenshots here if available*
 
 ---
 
@@ -31,7 +30,8 @@ A simple, vibrant Inventory Management System built using **React**, **HTML**, *
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone <your-repo-url><img width="1919" height="1079" alt="Screenshot 2025-12-17 220605" src="https://github.com/user-attachments/assets/bf39f06c-1a64-4f87-b179-61c6215bdd43" />
+
 ```
 
 2. Navigate to the project folder:
